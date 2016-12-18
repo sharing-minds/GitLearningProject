@@ -1,2 +1,9 @@
 Git add new file
+
+i) git add <file-name>
+ii) git commit -m "<message>"
+
 Git change existing file
+
+i)  git add <file-name>
+ii) git commit -m "<message>"
