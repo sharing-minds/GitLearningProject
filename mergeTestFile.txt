@@ -1,0 +1,8 @@
+Modify master
+
+1) git checkout master -- Checkout the master
+2) git pull --rebase -- Pull changes from remote git hub repository
+3) git add <filename> -- Add changes to commit list
+4) git commit -m "commit changes" -- Commit changes to  your local master branch
+5) git pull --rebase -- Pull changes from the remote git hub repository
+6) git push origin master -- Push the changes to origin
