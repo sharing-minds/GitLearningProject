@@ -1,0 +1,4 @@
+Git branch instructions
+
+1) git checkout -b <BranchName> -- Creates new branch in local repository
+2) git push origin <BranchName> -- Push branch to git hub
