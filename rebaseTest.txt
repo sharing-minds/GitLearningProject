@@ -1,1 +1,11 @@
-Git rebase Test
+Git rebase Merge Branch to Master
+
+1) git checkout <BranchName>
+2) git add <filename>
+3) git commit -m "<commit message>"
+4) git pull --rebase
+5) git push origin <BranchName>
+6) git checkout master
+7) git rebase <BranchName>
+8) git pull --rebase
+9) git pus origin master 
