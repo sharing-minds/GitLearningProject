@@ -8,4 +8,4 @@ Make changes to branch
 2) git commit -m "<commit message>" -- Commit changes to branch in local repository
 3) git push --set-upstream origin <BranchName> -- set remote branch as upstream
 4) git pull --rebase -- Pull changes for branch from remote repository and reapply your changes on top
-5) git push <BranchName> -- Push changes from local branch to remote branch
+5) git push origin <BranchName> -- Push changes from local branch to remote branch
