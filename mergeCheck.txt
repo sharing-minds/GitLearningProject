@@ -1,1 +1,3 @@
 git mergecheck
+git mergecheck 2 in alpha
+git mergecheck 3 in alpha
