@@ -11,3 +11,5 @@ i)  git add <file-name> -- Adds the file to commit list
 ii) git commit -m "<message>" -- Commits the changes to local repository
 iii) Pulls the changes from git hub to the local repository and applies your commit changes on top
 iv) git push origin -- Pushes changes to remote repository
+
+Git changes test2
