@@ -9,5 +9,6 @@ Make changes to branch
 3) git push --set-upstream origin <BranchName> -- set remote branch as upstream
 4) git pull --rebase -- Pull changes for branch from remote repository and reapply your changes on top
 5) git push origin <BranchName> -- Push changes from local branch to remote branch
-
+6)Add new line to repository for beta branch
 7) Add git alpha changes
+
